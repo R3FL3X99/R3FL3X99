@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Terrence 👋
 
-<!--
-**R3FL3X99/R3FL3X99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer (Frontend-Focused) building scalable web applications.
 
-Here are some ideas to get you started:
+## Tech Stack
+- React (Vite), Tailwind CSS, JavaScript
+- Node.js, Express.js, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Pulse — Full-Stack Social Media App
+- Peepers — Movie Discovery App
+
+## Contact
+- LinkedIn: linkedin.com/in/terrence-udin-371667235
