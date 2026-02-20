@@ -9,6 +9,7 @@ Full-Stack Developer (Frontend-Focused) building scalable web applications.
 ## Featured Projects
 - Pulse — Full-Stack Social Media App
 - Peepers — Movie Discovery App
+- crypto analytics dashboard built with React, TypeScript, React Query, and CoinGecko API
 
 ## Contact
 - LinkedIn: linkedin.com/in/terrence-udin-371667235
